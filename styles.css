@@ -1,2 +1,14 @@
+.button{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border: none;    
+}
+.button p:hover{
+        color: black;
+}
 
-/* Your CSS Code here. */
+.press :hover{
+    background-color: yellow;
+    border-radius: 30px;
+}
